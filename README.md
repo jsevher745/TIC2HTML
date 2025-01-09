@@ -1,1 +1,1 @@
-# TIC2-HTML
+# TIC2HTML
